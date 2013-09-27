@@ -1,0 +1,6 @@
+label {float:left; width:150px;}
+input {float:left; margin-left:10px; width:130px; margin-top:5px;}
+input[type=submit] {width:150px; font-size:12px;}
+input[type=file] {width:220px; font-size:12px; margin-top: 15px}
+textarea {float:left; margin-left:10px;}
+br {clear:both;}
